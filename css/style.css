@@ -2,6 +2,8 @@ title{
             color: blue
 }
 h1 {
+            color: blue;
+            border: 10cm;
             text-align: center;
             text-shadow: 3cm;
             text-decoration: blue;
@@ -9,7 +11,7 @@ h1 {
 
 h2{
             text-align: center;
-            color: blanchedalmond;
+            color:red;
 }
 
 h3 {
@@ -30,6 +32,13 @@ p{
 }
 
 img{
-            size: 30px;
-            image-resolution: 20px;
+            background: rgb(19, 179, 207);
+            size: 150px;
+            image-resolution: 50px;
+            border-image-repeat: repeat;
+            padding: 2%;
+            margin: 2%;
+}
+html{
+            background: rgb(19, 19, 48)
 }
