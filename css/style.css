@@ -2,7 +2,7 @@ title{
             color: blue
 }
 h1 {
-            color: blue;
+            color: white;
             border: 10cm;
             text-align: center;
             text-shadow: 3cm;
@@ -10,19 +10,19 @@ h1 {
 }
 
 h2{
-            text-align: center;
-            color:red;
+            text-align: justify;
+            color:blue;
+            font-family: 'Times New Roman', Times, serif;
 }
 
 h3 {
-            padding: 0px;
-            margin: 0%;
+            text-align: center;
             font-family: cursive;
 }
 
 ol{
             border: 10cm;
-            border-bottom-color: blue;
+            border-color: blue;
 }
 
 p{
@@ -39,6 +39,15 @@ img{
             padding: 2%;
             margin: 2%;
 }
+
 html{
-            background: rgb(19, 19, 48)
+            background:rgb(243, 205, 148);
+}
+
+h4{
+            color: blue;
+            text-align: center;
+            text-decoration-color: blue;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 100%;
 }
