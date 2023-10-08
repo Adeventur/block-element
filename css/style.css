@@ -21,8 +21,8 @@ h3 {
 ul{
         border: 10cm;
         border-color: blue;
-        padding: 0px;
-        margin: 0px;
+        padding: 3px;
+        margin: 3px;
 }
 
 p{
@@ -60,6 +60,9 @@ h4{
         text-align: center;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         display: flex;
-        margin: 9px;
-        padding: 9px;
+}
+
+li{
+        padding: 2px;
+        margin: 2px;
 }
